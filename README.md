@@ -1,5 +1,7 @@
 # Spring MVC CRUD with Example
 
+Link chi tiết code: [https://github.com/LTK-Dev/INT3236E_1-W1_Ex2](https://github.com/LTK-Dev/INT3236E_1-W1_Ex2)
+
 Họ và tên: Lê Tuấn Kiệt  
 Mã sinh viên: 22024546
 
@@ -23,6 +25,8 @@ Mã sinh viên: 22024546
 ![Delete](./W1_Ex2/demo/img/Delete.png)
 
 # Spring Boot – Spring Data JPA
+
+Link chi tiết code: [https://github.com/LTK-Dev/INT3236E_1-W1_Ex1](https://github.com/LTK-Dev/INT3236E_1-W1_Ex1)
 
 Họ và tên: Lê Tuấn Kiệt  
 Mã sinh viên: 22024546
